@@ -1,4 +1,3 @@
-# sentiment_analysis
-Only get the uppercase input
-Find the emotion according to comparing key words
+Change the custom input to uppercase
+By using trained machine learning model it will predict the sentiment 
 
